@@ -1,0 +1,3 @@
+1. Basic Idea and Project
+
+The underlying thought which motivated this project was the observation that in historical source selection *objects* are often disregarded in favour of the more accessable and straight-forward text. While this problem already arises from the way historical work is taught, there also exists the factor that an additional effort is required to alone be able to examine objects. By mainly using texts as sources only a part of History is being written.  
