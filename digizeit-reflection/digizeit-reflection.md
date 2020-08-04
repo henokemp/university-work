@@ -22,7 +22,7 @@ The first project-idea I considered, focussed on the accessability issue. It tri
 
 ### Workprocess
 
-As I was the first student to write a *Lives in Transit* storyline, there wasn't much introductory content for creating a chapter available. The tutorial—which was still a work-in-progress by at that time—supplied only basic information on how the layouting and formatting worked. Therefore most of the 'learning how the system works' was done autodidactically analysing and editing the public **git repository** of the [*Lives in Transit* demo](https://github.com/uzh/lit-demo). As essentially all the content programming in **Marugoto** is done in JSON—which is easily human readable—understanding the different variables was not difficult. For editing the JSON files I used **Sublime Text 3** and **Sublime Merge** as a Git client.
+As I was the first student to write a *Lives in Transit* storyline, there wasn't much introductory content for creating a chapter available. The tutorial—which was still a work-in-progress by at that time—supplied only basic information on how the layouting and formatting worked. Therefore most of the 'learning how the system works' was done autodidactically analysing and editing the public **GitHub repository** of the [*Lives in Transit* demo](https://github.com/uzh/lit-demo). As essentially all the content programming in **Marugoto** is done in JSON—which is easily human readable—understanding the different variables was not difficult. For editing the JSON files I used **Sublime Text 3** and **Sublime Merge** as a Git client.
 
 ![01.](https://github.com/henokemp/university-work/blob/master/digizeit-reflection/pictures/i1.png)
 
@@ -59,3 +59,17 @@ By the fourth of May a closed beta was carried out involving the other students 
 
 The last two weeks until the deadline on the 26th of May were then used to refine *Feeling the Past*. I focussed on the writing and ensuring that on the technical side everything was working as intended. During some time in May there was a bug in **Marugoto** present, where the progression criteria of exercises were not working as expected. At first I assumed it was a coding error on my side but after consulting with the *Lives in Transit* team it was confirmed that the bug occured in other storylines as well. The bug was later fixed and on the 26th of May I submitted the finished version of *Feeling the Past*. 
 
+| Software  | Description | Evaluation |
+| ---------	| ----------- | ---------- |
+| Marugoto | 
+| marugoto-importer |
+| marugoto-validator |
+| Sublime Text 3 |
+| Pencil |
+| Sublime Merge |
+| GitHub |
+| GitLab |
+| Microsoft Teams |
+| Gimp |
+| Firefox|
+| Google Chrome |
