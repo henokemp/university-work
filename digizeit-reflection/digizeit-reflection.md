@@ -59,17 +59,21 @@ By the fourth of May a closed beta was carried out involving the other students 
 
 The last two weeks until the deadline on the 26th of May were then used to refine *Feeling the Past*. I focussed on the writing and ensuring that on the technical side everything was working as intended. During some time in May there was a bug in **Marugoto** present, where the progression criteria of exercises were not working as expected. At first I assumed it was a coding error on my side but after consulting with the *Lives in Transit* team it was confirmed that the bug occured in other storylines as well. The bug was later fixed and on the 26th of May I submitted the finished version of *Feeling the Past*. 
 
-| Software  | Description | Evaluation |
-| ---------	| ----------- | ---------- |
+| Software  | Description |
+| ---------	| ----------- |
 | Marugoto | 
 | marugoto-importer |
 | marugoto-validator |
 | Sublime Text 3 |
 | Pencil |
+| Gimp |
+| Firefox|
+| Google Chrome |
 | Sublime Merge |
 | GitHub |
 | GitLab |
 | Microsoft Teams |
-| Gimp |
-| Firefox|
-| Google Chrome |
+
+**Table 1**: Used programs with a short description and evaluation. Reflection is following below.
+
+### The Four Tasks of the Game 
