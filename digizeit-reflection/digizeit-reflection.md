@@ -61,8 +61,8 @@ The last two weeks until the deadline on the 26th of May were then used to refin
 
 Software  | Description
 --- | ---
-[Marugoto](https://github.com/uzh/marugoto) | The engine on which *Lives in Transit* runs, created specifically for the project. Utilizes a file hierarchy and JSON files to create webpages which can display multimedia content as well as interactive modules.
-[maruval](https://github.com/uzh/marugoto-validator) | A tool written by Daniel McDonald to examine a *Lives in Transit* repository for possible coding errors. It's run from the command line and contains multiple utilities.
+[Marugoto](https://github.com/uzh/marugoto) | The engine on which *Lives in Transit* runs, created specifically for the project. Utilizes folder hierarchy and JSON files to create webpages which can display multimedia content as well as interactive modules.
+[maruval](https://github.com/uzh/marugoto-validator) | A tool written by Daniel McDonald to examine a *Lives in Transit* repository for possible coding errors. Runs from the command line and contains multiple utilities.
 [Sublime Text 3](https://www.sublimetext.com/) | Proprietary text editor developed by Sublime HQ. For *Feeling the Past* I used the evaluation version of the software on Ubuntu 18.04 LTS.
 [Pencil](https://pencil.evolus.vn/) | Open-source GUI prototyping tool developed by Evolus. 
 [GIMP](https://www.gimp.org/) | Open-source image editor developed by The GIMP Development Team.
@@ -73,6 +73,6 @@ Software  | Description
 [GitLab](https://about.gitlab.com/) | Web-based DevOps tool providing version control using Git on the basis of open-source code. DigiZeit utilized the service via SWITCH—the telecommunication network of Swiss universities—to host the file exchange, written discussion, and student projects.  
 [Microsoft Teams](https://www.microsoft.com/de-ch/microsoft-365/microsoft-teams/group-chat-software) | Proprietary communication and collaboration platform developed by Microsoft. 
 
-**Table 1**: Used programs with a short description based on the respective websites. Reflection is following below. 
+**Table 1**: Programs used for the project with a short description based on online information by the respective developers. 
 
 ### The Four Tasks of the Game 
