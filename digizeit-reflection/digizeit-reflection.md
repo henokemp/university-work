@@ -79,7 +79,7 @@ Software  | Description
 
 #### Task 1 (Page 1.2.1)
 
-The first task of the game is to write a descriptive paragraph of a coffee-maker based on four pictures from different angles and some given information. The player is also invited to do some research using the internet. The minimum amount of character the player must write is 300. Once the player proceeds to the next page, their description is saved in the notebook. 
+The first task of the game is to write a descriptive paragraph of a coffee-maker for a data-set based on four pictures from different angles and some information from the collection manager. The player is also invited to do some research using the internet. The minimum amount of character the player must write is 300. Once the player proceeds to the next page, their description is saved in the notebook. 
 
 The goal of this exercise is to give the player a gentle introduction into asking themselves what information they can get out of an object. This exercise—similar to the other ones—is posed intentionally open, so the player can interpret the task in relation to their own interests. 300 characters can both be very little or a lot of information, depending if the player utilizes bullet points or complete sentences.
 
@@ -87,7 +87,7 @@ The goal of this exercise is to give the player a gentle introduction into askin
 
 The second task approaches the question of objects and information from the other side. It's modelled after the real life problem of sometimes not knowing which objects is connected to which data-set. The player is tasked with finding the correct corresponding object to a data-set. Additionally the player is given a picture of four different mortars, out of which they have to choose the correct one. The data-set contains a visual description, from which the player has to conclude the correct mortar.
 
-In this exercise the player is confronted with the question what information data-set can and cannot give. In the game the choice the player makes out of the four different mortars makes no difference to the later stages of the game. This initially seems like laziness but there is a underlying thought. The task represents the real life problem of simply having no confirmation. Sometimes there is no way to definitely know if a certain object fits to a certain data-set.
+In this exercise the player is confronted with the question what information data-set can and cannot give. In the game the choice the player makes out of the four different mortars makes no difference to the later stages of the game. This initially might seem like laziness but there is a underlying thought. The task represents the real life problem of most times simply not having a confirmation. There often is no way to definitely know if a certain object fits to a certain data-set.
 
 #### Task 3 (Pages 1.4.1-3)
 
