@@ -24,15 +24,21 @@ The first project-idea I considered, focussed on the accessability issue. It tri
 
 As I was the first student to write a *Lives in Transit* storyline, there wasn't much introductory content for creating a chapter available. The tutorial—which was still a work-in-progress by at that time—supplied only basic information on how the layouting and formatting worked. Therefore most of the 'learning how the system works' was done autodidactically analysing and editing the public **git repository** of the [*Lives in Transit* demo](https://github.com/uzh/lit-demo). As essentially all the content programming in **Marugoto** is done in JSON—which is easily human readable—understanding the different variables was not difficult. For editing the JSON files I used **Sublime Text 3** and **Sublime Merge** as a Git client.
 
-Picture 1: Example for JSON code, textComponent2.json of page 1.2.0 of *Feeling the Past*
+![01.](https://github.com/henokemp/university-work/blob/master/digizeit-reflection/pictures/i1.png)
+
+**Picture 1:** Example for JSON code, textComponent2.json of page 1.2.0 of *Feeling the Past*
 
 On the projects test-system I was then able to see my edits in effect. Feeling the Past utilizes only a smaller part of Marugoto's functionality. Firstly the playtime of my game is simply not long enough to incorporate everything. Secondly the *Lives in Transit* demo acted as a model for Feeling the Past, so it mainly uses the same (limited) functionality. Last the preparation time for the DigiZeit project was simply too short to learn the complete functionality of *Lives in Transit*.
 
 After familiarizing myself with the basic workflow of **Marugoto** the next step was to construct my storyline. Martin Dusinberre adviced me—based on his own experience constructing *Plantation Lives*—to draw the story and the pages on a piece of paper. I followed this advice with a digital twist. Using the free open-source prototyping tool **Pencil** I created a UI interface system and a storyline flowchart.
 
-Picture 2: Basic UI of *Feeling the Past*, drawn using **Pencil**.
+![02.](https://github.com/henokemp/university-work/blob/master/digizeit-reflection/pictures/i2.png)
 
-Picture 3: Story flowchart of *Feeling the Past*, draw using **Pencil**.
+**Picture 2:** Basic UI of *Feeling the Past*, drawn using **Pencil**.
+
+![03.](https://github.com/henokemp/university-work/blob/master/digizeit-reflection/pictures/i3.png)
+
+**Picture 3:** Story flowchart of *Feeling the Past*, draw using **Pencil**.
 
 The underlying idea of the UI interface system was to have an environmental picture on the left to create the setting of each page and a text module on the right for information exposure and giving tasks. Below these two elements there are the exercise modules and the page transition buttons, which connect one page to another. In the finished game most of pages follow this system, expect a few where additional pictures were added below the environmental picture and exposure text. By keeping a consistent UI interface system throughout the whole game the player quickly learns how to process the information on the page and can focus on the content.
 
