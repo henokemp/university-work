@@ -60,7 +60,7 @@ By the fourth of May a closed beta was carried out involving the other students 
 The last two weeks until the deadline on the 26th of May were then used to refine *Feeling the Past*. I focussed on the writing and ensuring that on the technical side everything was working as intended. During some time in May there was a bug in **Marugoto** present, where the progression criteria of exercises were not working as expected. At first I assumed it was a coding error on my side but after consulting with the *Lives in Transit* team it was confirmed that the bug occured in other storylines as well. The bug was later fixed and on the 26th of May I submitted the finished version of *Feeling the Past*. 
 
 Software  | Description
--------------- | ---
+--- | ---
 [Marugoto](https://github.com/uzh/marugoto) | The engine on which *Lives in Transit* runs, created specifically for the project. Utilizes folder hierarchy and JSON files to create webpages which can display multimedia content as well as interactive modules.
 [maruval](https://github.com/uzh/marugoto-validator) | A tool written by Daniel McDonald to examine a *Lives in Transit* repository for possible coding errors. Runs from the command line and contains multiple utilities.
 [Sublime Text 3](https://www.sublimetext.com/) | Proprietary text editor developed by Sublime HQ. For *Feeling the Past* I used the evaluation version of the software on Ubuntu 18.04 LTS.
