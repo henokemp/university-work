@@ -51,7 +51,7 @@ The larger part of creating the game was done repeating the following steps:
 - Having Daniel McDonald add the updated repository to the test-system
 - Testing the layout and exercises of the game using **Firefox** and **Google Chrome**
 
-One recurring problem in this process posed the importer of**Marugoto**. Originally created to automatically import changes from the different **GitHub** repositories to the *Lives in Transit* test-system, it only worked for the *Plantation Lives* storyline. Changes to *Feeling the Past* therefore had to be imported manually by Daniel McDonald, who was responsible for the technical side of *Lives in Transit*. This created delays between changes to the repository and seeing their effects on the test-system. The solution was pushing a small number of bigger changes instead a large number of smaller ones.
+One recurring problem in this process posed the importer of **Marugoto**. Originally created to automatically import changes from the different **GitHub** repositories to the *Lives in Transit* test-system, it only worked for the *Plantation Lives* storyline. Changes to *Feeling the Past* therefore had to be imported manually by Daniel McDonald, who was responsible for the technical side of *Lives in Transit*. This created delays between changes to the repository and seeing their effects on the test-system. The solution was pushing a small number of bigger changes instead a large number of smaller ones.
 
 Every picture of *Feeling the Past* except the garden picture in the first two pages were photographed by myself during one day using a **Nikon D750**. The garden picture is open license, therefore I could use it in this project without specifically acquiring the rights for it. While taking the pictures I tried to imitate the perspective of a person standing in front of the characters and objects. The goal was to support the immersiveness of the game by putting the player in the same position as a person confronted with these situations in real life. The pictures were edited using **Gimp**, so that they fit the vertical structure of the UI interface system.
 
@@ -79,7 +79,15 @@ Software  | Description
 
 #### Task 1 (Page 1.2.1)
 
+The first task of the game is to write a descriptive paragraph of a coffee-maker based on four pictures from different angles and some given information. The player is also invited to do some research using the internet. The minimum amount of character the player must write is 300. Once the player proceeds to the next page, their description is saved in the notebook. 
+
+The goal of this exercise is to give the player a gentle introduction into asking themselves what information they can get out of an object. This exercise—similar to the other ones—is posed intentionally open, so the player can interpret the task in relation to their own interests. 300 characters can both be very little or a lot of information, depending if the player utilizes bullet points or complete sentences.
+
 #### Task 2 (Page 1.3.0)
+
+The second task approaches the question of objects and information from the other side. It's modelled after the real life problem of sometimes not knowing which objects is connected to which data-set. The player is tasked with finding the correct corresponding object to a data-set. Additionally the player is given a picture of four different mortars, out of which they have to choose the correct one. The data-set contains a visual description, from which the player has to conclude the correct mortar.
+
+In this exercise the player is confronted with the question what information data-set can and cannot give. In the game the choice the player makes out of the four different mortars makes no difference to the later stages of the game. This initially seems like laziness but there is a underlying thought. The task represents the real life problem of simply having no confirmation. Sometimes there is no way to definitely know if a certain object fits to a certain data-set.
 
 #### Task 3 (Pages 1.4.1-3)
 
