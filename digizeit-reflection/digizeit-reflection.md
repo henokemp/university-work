@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This following reflection piece will discuss the project Feeling the Past, which I created during the spring semester of 2020. This project was part of the module History in a Digitized World (DigiZeit) by Prof. Martin Dusinberre and Daniel McDonald, PhD, tutored by Leyla Feiner. DigiZeit is an exclusive module for students of the Master’s degree History of the Contemporary World / Zeitgeschichte at the University of Zürich.
+This following reflection piece will discuss the project *Feeling the Past*, which I created during the spring semester of 2020. This project was part of the module *History in a Digitized World* (DigiZeit) by Prof. Martin Dusinberre and Daniel McDonald, PhD, tutored by Leyla Feiner. DigiZeit is an exclusive module for students of the Master’s degree *History of the Contemporary World / Zeitgeschichte* at the University of Zürich.
 
 This reflection piece is divided into two parts: one descriptive, another reflective. In the first, smaller part, the process beginning from the first thoughts up to the finished product will be discussed. The second part reflects on this and reviews the digital methods used, as well as the implications on future historical work. 
 
-Feeling the Past is an interactive, text-based game in which the player slips into the role of a graduate student in History facing their last year at university. The implied main task at the beginning of the game is finding a research topic for a Master’s thesis. Through lucky circumstances the player begins an internship at a local museum, where they are confronted with a number of realistic tasks revolving around historical objects. By completing these tasks a deeper understanding of how to use objects as historical sources is developed. This understanding is then required for the final task, writing a short research outline based on the different objects the player encountered in the playthrough. 
+*Feeling the Past* is an interactive, text-based game in which the player slips into the role of a graduate student in History facing their last year at university. The implied main task at the beginning of the game is finding a research topic for a Master’s thesis. Through lucky circumstances the player begins an internship at a local museum, where they are confronted with a number of realistic tasks revolving around historical objects. By completing these tasks a deeper understanding of how to use objects as historical sources is developed. This understanding is then required for the final task, writing a short research outline based on the different objects the player encountered in the playthrough. 
 
-The game was programmed using the **Marugoto** engine of Lives in Transit. It can be played using any web browser on computer. For a better understanding of this reflection piece it is best to recently have played Feeling the Past. This can be done on https://livesintransit.org/login. The playtime—depending on the playstyle—ranges between 15 and 30 minutes.
+The game was programmed using the **Marugoto** engine of *Lives in Transit*. It can be played using any web browser on computer. For a better understanding of this reflection piece it is best to recently have played *Feeling the Past*. This can be done on https://livesintransit.org/login. The playtime—depending on the playstyle—ranges between 15 and 30 minutes.
 
 ## Descriptive Part
 
@@ -28,7 +28,7 @@ As I was the first student to write a *Lives in Transit* storyline, there wasn't
 
 **Picture 1:** Example for JSON code, textComponent2.json of page 1.2.0 of *Feeling the Past*
 
-On the projects test-system I was then able to see my edits in effect. Feeling the Past utilizes only a smaller part of Marugoto's functionality. Firstly the playtime of my game is simply not long enough to incorporate everything. Secondly the *Lives in Transit* demo acted as a model for Feeling the Past, so it mainly uses the same (limited) functionality. Last the preparation time for the DigiZeit project was simply too short to learn the complete functionality of *Lives in Transit*.
+On the projects test-system I was then able to see my edits in effect. *Feeling the Past* utilizes only a smaller part of Marugoto's functionality. Firstly the playtime of my game is simply not long enough to incorporate everything. Secondly the *Lives in Transit* demo acted as a model for *Feeling the Past*, so it mainly uses the same (limited) functionality. Last the preparation time for the DigiZeit project was simply too short to learn the complete functionality of *Lives in Transit*.
 
 After familiarizing myself with the basic workflow of **Marugoto** the next step was to construct my storyline. Martin Dusinberre adviced me—based on his own experience constructing *Plantation Lives*—to draw the story and the pages on a piece of paper. I followed this advice with a digital twist. Using the free open-source prototyping tool **Pencil** I created a UI interface system and a storyline flowchart.
 
@@ -45,7 +45,10 @@ The underlying idea of the UI interface system was to have an environmental pict
 The pictured storyline flowchart is one of the later drafts. The final story structure deviates slightly in the progression and how the tasks are presented by the characters as well as completed by the player. Central to the story already in early drafts were the main four tasks I’ll describe more in depth later. Since the time for creating the game was rather limited I felt like it was important to have a clear idea of the structure as early as possible. Over the course of writing the game I stuck to the above concept for the most part and added only small adjustments for smoothing out the storyline.
 
 The larger part of creating the game was done repeating the following steps:
-- Creating and editing JSON files to create the **Marugoto** pages
+- Creating new and editing existing JSON files to create the **Marugoto** pages
 - Running **marugoto-validator** to find any (game breaking) coding mistakes
+- Pushing the *Feeling the Past* repository to **GitHub**
 - Having Daniel McDonald add the updated repository to the test-system
 - Testing the layout and exercises of the game using **Firefox** and **Google Chrome**
+
+One recurring problem in this process posed the **marugoto-importer**. Originally created to automatically import changes from the different **GitHub** repositories to the *Lives in Transit* test-system, it only worked for the *Plantation Lives* storyline. Changes to *Feeling the Past* therefore had to be imported manually by Daniel McDonald, who was responsible for the technical side of *Lives in Transit*. This created delays between changes to the repository and seeing their effects on the test-system. The solution was pushing a small number of bigger changes instead a large number of smaller ones.   
