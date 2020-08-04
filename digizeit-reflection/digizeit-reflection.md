@@ -77,10 +77,10 @@ Software  | Description
 
 ### The Four Tasks of the Game 
 
-#### Task 1 (1.2.1)
+#### Task 1 (Page 1.2.1)
 
-#### Task 2 (1.3.0)
+#### Task 2 (Page 1.3.0)
 
-#### Task 3 (1.4.1-3)
+#### Task 3 (Pages 1.4.1-3)
 
-#### Task 4 (1.5.1)
+#### Task 4 (Page 1.5.1)
