@@ -76,3 +76,11 @@ Software  | Description
 **Table 1**: Programs used for the project with a short description based on online information by the respective developers. 
 
 ### The Four Tasks of the Game 
+
+1. Task 1 (1.2.1)
+
+2. Task 2 (1.3.0)
+
+3. Task 3 (1.4.1-3)
+
+4. Task 4 (1.5.1)
