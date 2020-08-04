@@ -3,6 +3,9 @@
 ## Introduction
 
 This following reflection piece will discuss the project Feeling the Past, which I created during the spring semester of 2020. This project was part of the module History in a Digitized World (DigiZeit) by Prof. Martin Dusinberre and Daniel McDonald, PhD, tutored by Leyla Feiner. DigiZeit is an exclusive module for students of the Master’s degree History of the Contemporary World / Zeitgeschichte at the University of Zürich.
+
 This reflection piece is divided into two parts: one descriptive, another reflective. In the first, smaller part, the process beginning from the first thoughts up to the finished product will be discussed. The second part reflects on this and reviews the digital methods used, as well as the implications on future historical work. 
+
 Feeling the Past is an interactive, text-based game in which the player slips into the role of a graduate student in History facing their last year at university. The implied main task at the beginning of the game is finding a research topic for a Master’s thesis. Through lucky circumstances the player begins an internship at a local museum, where they are confronted with a number of realistic tasks revolving around historical objects. By completing these tasks a deeper understanding of how to use objects as historical sources is developed. This understanding is then required for the final task, writing a short research outline based on the different objects the player encountered in the playthrough. 
+
 The game was programmed using the **Marugoto** engine of Lives in Transit. It can be played using any web browser on computer. For a better understanding of this reflection piece it is best to recently have played Feeling the Past. This can be done on https://livesintransit.org/login. The playtime—depending on the playstyle—ranges between 15 and 30 minutes.
