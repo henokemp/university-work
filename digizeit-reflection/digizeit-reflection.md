@@ -46,12 +46,12 @@ The pictured storyline flowchart is one of the later drafts. The final story str
 
 The larger part of creating the game was done repeating the following steps:
 - Creating new and editing existing JSON files to create the **Marugoto** pages
-- Running **marugoto-validator** to find any (game breaking) coding mistakes
+- Running **maruval** to find any (game breaking) coding mistakes
 - Pushing the *Feeling the Past* repository to **GitHub**
 - Having Daniel McDonald add the updated repository to the test-system
 - Testing the layout and exercises of the game using **Firefox** and **Google Chrome**
 
-One recurring problem in this process posed the **marugoto-importer**. Originally created to automatically import changes from the different **GitHub** repositories to the *Lives in Transit* test-system, it only worked for the *Plantation Lives* storyline. Changes to *Feeling the Past* therefore had to be imported manually by Daniel McDonald, who was responsible for the technical side of *Lives in Transit*. This created delays between changes to the repository and seeing their effects on the test-system. The solution was pushing a small number of bigger changes instead a large number of smaller ones.
+One recurring problem in this process posed the importer of**Marugoto**. Originally created to automatically import changes from the different **GitHub** repositories to the *Lives in Transit* test-system, it only worked for the *Plantation Lives* storyline. Changes to *Feeling the Past* therefore had to be imported manually by Daniel McDonald, who was responsible for the technical side of *Lives in Transit*. This created delays between changes to the repository and seeing their effects on the test-system. The solution was pushing a small number of bigger changes instead a large number of smaller ones.
 
 Every picture of *Feeling the Past* except the garden picture in the first two pages were photographed by myself during one day using a **Nikon D750**. The garden picture is open license, therefore I could use it in this project without specifically acquiring the rights for it. While taking the pictures I tried to imitate the perspective of a person standing in front of the characters and objects. The goal was to support the immersiveness of the game by putting the player in the same position as a person confronted with these situations in real life. The pictures were edited using **Gimp**, so that they fit the vertical structure of the UI interface system.
 
@@ -59,21 +59,20 @@ By the fourth of May a closed beta was carried out involving the other students 
 
 The last two weeks until the deadline on the 26th of May were then used to refine *Feeling the Past*. I focussed on the writing and ensuring that on the technical side everything was working as intended. During some time in May there was a bug in **Marugoto** present, where the progression criteria of exercises were not working as expected. At first I assumed it was a coding error on my side but after consulting with the *Lives in Transit* team it was confirmed that the bug occured in other storylines as well. The bug was later fixed and on the 26th of May I submitted the finished version of *Feeling the Past*. 
 
-| Software  | Description |
-| ---------	| ----------- |
-| Marugoto | 
-| marugoto-importer |
-| marugoto-validator |
-| Sublime Text 3 |
-| Pencil |
-| Gimp |
-| Firefox|
-| Google Chrome |
-| Sublime Merge |
-| GitHub |
-| GitLab |
-| Microsoft Teams |
+Software  | Description
+--- | ---
+[Marugoto](https://github.com/uzh/marugoto) | The engine on which *Lives in Transit* runs, created specifically for the project. Utilizes a file hierarchy and JSON files to create webpages which can display multimedia content as well as interactive modules.
+[maruval](https://github.com/uzh/marugoto-validator) | A tool written by Daniel McDonald to examine a *Lives in Transit* repository for possible coding errors. It's run from the command line and contains multiple utilities.
+[Sublime Text 3](https://www.sublimetext.com/) | Proprietary text editor developed by Sublime HQ. For *Feeling the Past* I used the evaluation version of the software on Ubuntu 18.04 LTS.
+[Pencil](https://pencil.evolus.vn/) | Open-source GUI prototyping tool developed by Evolus. 
+[GIMP](https://www.gimp.org/) | Open-source image editor developed by The GIMP Development Team.
+[Firefox](https://www.mozilla.org/de/firefox/browsers/) | Open-source web browser developed by the Mozilla Foundation.
+[Google Chrome](https://www.google.com/chrome/) | Proprietary web browser developed by Google.
+[Sublime Merge](https://www.sublimemerge.com/) | Proprietary Git Client developed by Sublime HQ.
+[GitHub](https://github.com/) | Company which provides hosting for software development and version control using Git. Subsidiary of Microsoft since 2018. 
+[GitLab](https://about.gitlab.com/) | Web-based DevOps tool providing version control using Git on the basis of open-source code. DigiZeit utilized the service via SWITCH—the telecommunication network of Swiss universities—to host the file exchange, written discussion, and student projects.  
+[Microsoft Teams](https://www.microsoft.com/de-ch/microsoft-365/microsoft-teams/group-chat-software) | Proprietary communication and collaboration platform developed by Microsoft. 
 
-**Table 1**: Used programs with a short description and evaluation. Reflection is following below.
+**Table 1**: Used programs with a short description based on the respective websites. Reflection is following below. 
 
 ### The Four Tasks of the Game 
