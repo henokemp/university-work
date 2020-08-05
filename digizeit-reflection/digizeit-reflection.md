@@ -63,7 +63,7 @@ Software  | Description
 --- | ---
 [Marugoto](https://github.com/uzh/marugoto) | The engine on which *Lives in Transit* runs, created specifically for the project. Utilizes folder hierarchy and JSON files to create web-pages which can display multimedia content as well as interactive modules.
 [maruval](https://github.com/uzh/marugoto-validator) | A tool written by Daniel McDonald to examine a *Lives in Transit* repository for possible coding errors. Runs from the command line and contains multiple utilities.
-[Sublime Text 3](https://www.sublimetext.com/) | Proprietary text editor developed by Sublime HQ. For *Feeling the Past* I used the evaluation version of the software on Ubuntu 18.04 LTS.
+[Sublime Text 3](https://www.sublimetext.com/) | Proprietary text editor developed by Sublime HQ. For *Feeling the Past* I used the evaluation version on Ubuntu 18.04 LTS.
 [Pencil](https://pencil.evolus.vn/) | Open-source GUI prototyping tool developed by Evolus. 
 [GIMP](https://www.gimp.org/) | Open-source image editor developed by The GIMP Development Team.
 [Firefox](https://www.mozilla.org/de/firefox/browsers/) | Open-source web browser developed by the Mozilla Foundation.
@@ -91,7 +91,7 @@ The second task approaches the question of objects and information from the othe
 
 In this exercise the player is confronted with the question what information a data-set can and cannot give. In the game the choice the player makes out of the four different mortars makes no difference to the later stages of the game. This initially might seem like laziness but there is a underlying thought. The task represents the real-life problem of most times simply not having a confirmation. There often is no way to definitely know if a certain object is connected to a certain data-set.
 
-#### Task 3 (Pages 1.4.1-3)
+#### Task 3 (Pages 1.4.1 - 3)
 
 The central exercise in *Feeling the Past* is the third task of the game. Here the player is given the choice between three different objects with three different kinds of informations. The first object, an apothecary scale, comes with both a complete data-set and multiple pictures. This simulates being in a collection and standing right in front of the desired object. Basically the optimal case if someone is interested in using an object as a historical source. The second choice is missing, well, the object, a ventilator. The player only receives a data-set and a rather deficient picture. This is once again modeled after a real life problem, which is sometimes not knowing the exact location of an object and therefore having to deal with incomplete or bad information. The last object is a straight-jacket. The data-set is a reconceptualized version of the *classic* data-set seen in the upper two choices. It's a text written by myself in the style of Neil MacGregor's *A History of the World in 100 Objects*, based both on the original data-set of the HVM and my personal impressions of the object. This was an attempt to rethink how information is collection is stored and how it might be possible to facilitate the work of historians interested in objects. 
 
@@ -99,4 +99,5 @@ The central exercise in *Feeling the Past* is the third task of the game. Here t
 
 The last task of the game was already teased in the very first pages: writing a short research outline based on the objects the player encountered during their first day at the museum. Here the player is asked to explicitly think about how they might use the objects in their own research. The goal was to set an overarching goal very early in the game and come back to it at the end to give the story a basic structure.
 
-## Reflective Part    
+## Reflective Part
+
