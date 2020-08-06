@@ -1,4 +1,4 @@
-# Reflection Paper
+# Reflection Piece
 
 ## Introduction
 
@@ -22,7 +22,7 @@ The first project-idea I considered focused on the accessibility issue. It tried
 
 ### Work-process
 
-As I was the first student to write a *Lives in Transit* storyline, there wasn't much introductory content for creating a chapter available. The tutorial—which was still a work-in-progress at that time—supplied only basic information on how the layouting and formatting worked. Therefore most of the 'learning how the system works' was done auto-didactically analysing and editing the public **GitHub repository** of the [*Lives in Transit* demo](https://github.com/uzh/lit-demo). Essentially all the content programming in **Marugoto** is done in the easily human readable programming langue JSON, so understanding the different variables was not difficult. For editing the JSON files I used **Sublime Text 3** and **Sublime Merge** as a Git client. The repository was hosted on **GitHub**.
+As I was the first student to write a *Lives in Transit* storyline, there wasn't much introductory content for creating a chapter available. The tutorial—which was still a work-in-progress at that time—supplied only basic information on how the layouting and formatting worked. Therefore most of the *learning how the system works* was done auto-didactically analysing and editing the public **GitHub repository** of the [*Lives in Transit* demo](https://github.com/uzh/lit-demo). Essentially all the content programming in **Marugoto** is done in the easily human readable programming langue JSON, so understanding the different variables was not difficult. For editing the JSON files I used **Sublime Text 3** and **Sublime Merge** as a Git client. The repository was hosted on **GitHub**.
 
 ![01.](https://github.com/henokemp/university-work/blob/master/digizeit-reflection/pictures/i1.png)
 
@@ -100,4 +100,17 @@ The centerpiece of *Feeling the Past* is the third task of the game. Here the pl
 The last task of the game was already teased in the very first pages: writing a short research outline based on the objects the player encountered during their first day at the museum. Here the player is asked to explicitly think about how they might use the objects in their own research. The goal was to set an overarching goal very early in the game and come back to it at the end to give the story a basic structure.
 
 ## Reflective Part
+
+### Work-process
+
+### Tools
+
+### Target Group
+
+### Games in Academic History
+
+### Objects in Academic History
+
+## Conclusion
+
 
