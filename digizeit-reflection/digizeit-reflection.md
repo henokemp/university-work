@@ -116,7 +116,9 @@ The graphical software I used, **Pencil** and **Gimp**, both weren't used even r
 
 Both **Firefox** and **Google Chrome** were used to test *Feeling the Past*. Using two browsers wasn't really a deliberate choice, as I have been using **Google Chrome** on my desktop for while and started using **Firefox** once I switched to Linux on my laptop and stared trying to use more open-source software. As far as my knowledge of web-development goes, testing a website in multiple browsers is common practice because they sometimes differ in how they display content. 
 
-The two content hosts used, **GitHub** and **GitLab**, 
+The two content hosts used, **GitHub** and **GitLab**, were necessities for connecting the repository of *Feeling the Past* with the test-system and communicating with the other students of DigiZeit. The Git functionality made it easy for other people to take a look at my project in a unfinished state and make suggestions. In my opinion it could also be used for co-writing historical papers and other tasks, which have nothing to do with software development. I feel like the most important feature is having a master file, to which all involved people can make contributions to in form of pull requests, but at the same time allowing a clear hierarchy of who accepts and rejects these requests and who doesn't. This functionality could improve many existing workflows, which still rely on editing one file on a central server. One key issue here is that there can only one person who edits the file at the time which leads to people making copies which leads to different version of the same file floating around. This source of problem could be solved with using Git.
+
+
 
 
 ### Tasks
