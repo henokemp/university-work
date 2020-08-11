@@ -70,8 +70,7 @@ Software  | Description
 [Google Chrome](https://www.google.com/chrome/) | Proprietary web browser developed by Google.
 [Sublime Merge](https://www.sublimemerge.com/) | Proprietary Git client developed by Sublime HQ.
 [GitHub](https://github.com/) | Company which provides hosting for software development and version control using Git. Subsidiary of Microsoft since 2018. 
-[GitLab](https://about.gitlab.com/) | Web-based DevOps tool providing version control using Git on the basis of open-source code. DigiZeit utilized the service via SWITCH—the telecommunication network of Swiss universities—to host the file exchange, written discussion, and student projects.  
-[Microsoft Teams](https://www.microsoft.com/de-ch/microsoft-365/microsoft-teams/group-chat-software) | Proprietary communication and collaboration platform developed by Microsoft. 
+[GitLab](https://about.gitlab.com/) | Web-based DevOps tool providing version control using Git on the basis of open-source code. DigiZeit utilized the service via SWITCH—the telecommunication network of Swiss universities—to host the file exchange, written discussion, and student projects.
 
 **Table 1**: Programs used for the project with a short description based on online information by the respective developers. 
 
@@ -104,6 +103,23 @@ The last task of the game was already teased in the very first pages: writing a 
 ### Work-process
 
 ### Tools
+
+In the following section I will review the tools I used creating *Feeling the Past*. This discussion won't go into too much depth, as I simply don't have the expertise to critique these tools other than how well they achieved what I intended to use them for in my project.
+
+**Marugoto** has proved to be a good choice for creating a piece of interactive fiction with an educational intend. During the last session of DigiZeit I was asked if I had preferred something more complex like a 3D based engine. In my opinion this would have caused the game to be more focused on the experience of being in the museum instead of the exercises and what can be learned by them. Additionally the workload of creating a 3D game—even with a existing environment and presets—would have meant less freedom and less time to conceptually work on the game. Using a text-based engine and static pages allows the player to focus on the tasks, which were for my purposes the most important part of the game. My familiarity with *Lives in Transit* and its limits and possibilities before beginning the project helped me to quickly plan the contents of the game. There is a fair bit of functionality of **Marugoto** I didn't explore in my game. The main reason for this is the lack of time and partially a lack of awareness. The learning curve of Marugoto was steep, having to understand both how the folder hierarchy relates to the different pages displayed and what each variable controls. Once understood though, the work becomes fluent and quite direct, as the knowledge of one functionality facilitates the learning of the next. I think a person without much coding experience will be able to pick it up in a few days, even more so now that there exists a tutorial. 
+
+**maruval** has proved to be an essential part of working with the project. For one, dealing with the disfunctional importer was somewhat facilitated by first testing if there were any issues with the code. Secondly, having a tool to check the code of someone learning the engine by themselves was helpful getting feedback without having to consult someone with in depth experience of **Marugoto**. My own learning experience was accelerated by using **maruval**.
+
+The text-editor I used, **Sublime Text 3**, and the version control software **Sublime Merge** proved to be good choices. The most useful feature of **Sublime Text 3** was the highlighting of the different parts of the JSON code. This facilitated my understanding of exisiting and new code as well as occasional mistakes. It's also pleasant to work with as there are very few distractions in the UI. Upon recommendation of Daniel McDonald I installed packages which further streamlined the workprocess, such as a package to automatically check if there's a newline at the end of code and if this is not the case to add one. **Sublime Merge's** most useful feature was displaying the changes to files in red and green, so proofreading any changes before pushing was quick and easy. For a solo project like mine, having the graphical representation of branches and forks of **Sublime Merge** wasn't very important, but I imagine for a bigger project it would proof useful.
+
+The graphical software I used, **Pencil** and **Gimp**, both weren't used even remotely close to their full potential. This of course isn't a bad thing. With both programs I needed a moment to orientate myself, but afterwards I was able to quickly achieve what I wanted to do.
+
+Both **Firefox** and **Google Chrome** were used to test *Feeling the Past*. Using two browsers wasn't really a deliberate choice, as I have been using **Google Chrome** on my desktop for while and started using **Firefox** once I switched to Linux on my laptop and stared trying to use more open-source software. As far as my knowledge of web-development goes, testing a website in multiple browsers is common practice because they sometimes differ in how they display content. 
+
+The two content hosts used, **GitHub** and **GitLab**, 
+
+
+### Tasks
 
 ### Target Group
 
