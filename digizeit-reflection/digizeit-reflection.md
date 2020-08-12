@@ -128,13 +128,17 @@ Both **Firefox** and **Google Chrome** were used to test *Feeling the Past*. Usi
 
 The two content hosts used, **GitHub** and **GitLab**, were necessities for connecting the repository of *Feeling the Past* with the test-system and communicating with the other students of DigiZeit. The Git functionality made it easy for other people to take a look at my project in a unfinished state and make suggestions. In my opinion it could also be used for co-writing historical papers and other tasks, which have nothing to do with software development. I feel like the most important feature is having a master file, to which all involved people can make contributions to in form of pull requests, but at the same time allowing a clear hierarchy of who accepts and rejects these requests and who doesn't. This functionality could improve many existing workflows, which still rely on editing one file on a central server. One key issue here is that there can only one person who edits the file at the time which leads to people making copies which leads to different version of the same file floating around. This source of problem could be solved with using Git.
 
-Ubuntu
-
 ### Tasks
 
 
 
 ### Target Group
+
+The intended target group of *Feeling the Past* was university students doing their Bachelor's or Master's degree. I wanted to make an impact on the source selection in academic history. Because I'm only familiar with being a historian studying on Bachelor and Master level and I wanted the game to be relatable, I chose a Master's student as the playable character. The story therefore assumes that the player has at least some knowledge of source analysis. During the feedback discussion in the last session of DigiZeit the question was raised, if the game would also be applicable for other people, for example high school students or museum visitors. The game is of course playable by people without prior knowledge of historical work and source selection. But the effect would not be the same. For museum visitors the game could present an insight behind the scenes of a museum. For high school student the game could also show what it feels like doing an internship at a museum or studying history. But for both groups the originally intended goal would not be met. 
+
+Martin Dusinberre mentioned that there is a demand for new ways of teaching history for high school students. **Marugoto** could definitely be a new way of conveying historical ideas. But I feel like the story has to be specifically written for the target group to be most effective. If I were to rewrite *Feeling the Past* for high school students I would change the main character to someone who has just finished their school years and is interested in history. The tasks would be more basic at the beginning, but could definitely become more complex depending on the length of the game. This way the player could become familiar with the work inside a museum and of a historian.
+
+Another suggestion was playing the game from inside the museum. For *Feeling the Past* in the present state the added benefit of that wouldn't be big. But as a general idea this could offer a real addition to the classic museum experience. A rewrite could involve having the player physically find the object in the collection and inspect it in person. This could potentially strengthen the argument that there is something to gain from using objects as historical sources. The play-through would have to supervised if the player are dealing with real objects, but it would improve both the experience of being in the museum and learning about objects as historical sources. 
 
 ### Games in Academic History
 
