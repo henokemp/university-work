@@ -160,4 +160,4 @@ Following Jan and Gaydos classification of games for learning I consider *Feelin
 
 The future for educational games seems bright. A lot of work is being done on how to achieve desired pedagological goals with games. The opportunities are countless and the creative freedom of game-making allows for various new approaches in writing and teaching history.  
 
-What did you really want to say with this piece?
+**What did you really want to say with this piece?**
