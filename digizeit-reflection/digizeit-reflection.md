@@ -159,13 +159,21 @@ Following Jan and Gaydos classification of games for learning I consider *Feelin
 **What did you really want to say with this piece?**
 
 Henrik Jochum
+
 Bachwiesstrasse 11
+
 9402 Mörschwil
+
 henrik.jochum@uzh.ch
+
 079 126 92 17
 
+
 Matrikelnummer: 15-731-367
+
 Major: History of the Contemporary World / Zeitgeschichte
+
 Minor: Wirtschaftsgeschichte und Ökonomie
+
 
 Module: *History in a Digitized World* in Spring Semester 2020 (Martin Dusinberre, Daniel McDonald)
