@@ -44,7 +44,7 @@ The disadvantages are clear: For one, *Marugoto* comes with the initial effort o
 
 #### Digital Databases and reaching the fundamental goal of ***Feeling the Past***
 
-Databases are a historian's window into a digital archive or a modern collection. Their structure influences the way we select sources and shape our research. Naturally, they tend to focus on their job as archival tools rather than a historian's research help. While a considerable amount of writing discusses how archives influence historians (see for example: Farge, 1989 / Trouillot, 1995 / Stoler, 2002 / Stoler, 2009), there is still more work to be done regarding which impact the digital advancements of the past decades had on the way we conduct our research today. One example is Lara Putnam's article on "The Transnational and the Text-Searchable"(Putnam, 2016). She examines how source digitalization has transformed the work of historians, especially with an eye on transnational research. In relation to my project, an important part is her citing of a study by Ian Milligan, which showed that in the wake of digitalization the citations of two newspapers increased tenfold while citation of their non-digitized contemporaries stayed steady or fell (p. 388, Milligan, 2013). This has important implications on *Feeling the Past's* fundamental goal of introducing more objects to the historical source selection. 
+Databases are a historian's window into a digital archive or a modern collection. Their structure influences the way we select sources and shape our research. Naturally, they tend to focus on their job as archival tools rather than a historian's research help. While a considerable amount of writing discusses how archives influence historians (see for example: Farge, 1989 / Trouillot, 1995), there is still more work to be done regarding which impact the digital advancements of the past decades had on the way we conduct our research today. One example is Lara Putnam's article on "The Transnational and the Text-Searchable"(Putnam, 2016). She examines how source digitalization has transformed the work of historians, especially with an eye on transnational research. In relation to my project, an important part is her citing of a study by Ian Milligan, which showed that in the wake of digitalization the citations of two newspapers increased tenfold while citation of their non-digitized contemporaries stayed steady or fell (p. 388, Milligan, 2013). This has important implications on *Feeling the Past's* fundamental goal of introducing more objects to the historical source selection. 
 
 For one, digitalization seems to be a key component to the solution. As more and more source work is being done digitally, trying to facilitate finding objects for historians using this channel seems to be natural. Like I mentioned above, most databases are created focussing on their archival task, rather than to support historical research. Therefore one option of getting more objects into historical research would be reconceptualizing digital data-sets, something I tried in *Feeling the Past's* third task with the presentation of the straitjacket in the style of Neil MacGregor's *A History of the World in 100 Objects*, based both on the original data-set of the HVM and my personal impressions of the object. By focussing on different aspects of the object, like questions regarding its social context or production, already on the level of the data-set the work of a historian can be facilitated or supported, and thanks to the digital format continuously expanded. While I feel like this would definitely be a step in the right direction, it won't change much if another fundamental problem isn't solved: Access.
 
@@ -78,6 +78,8 @@ Another suggestion was playing the game from inside the museum. For *Feeling the
 
 Bossavit, Benoît et al.: Educational Games to Enhance Museum Visits for Schools. In: Journal of Educational Technology & Society, Vol. 21, No. 4 (October 2018). pp. 171—186.
 
+Farge, Arlette: The Allure of the Archives. New Haven & London 1989. 
+
 Findlen, Paula: Objects of History: the Past Materialized. In: History and Theory, Vol. 59, No. 2 (June 2020). pp. 270—282.
 
 Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts)
@@ -92,12 +94,18 @@ Jang, Hyewon: Identifying 21st Century STEM Competencies Using Workplace Data. I
 
 Jenner, Walter / de Araújo, Leonardo Moura: Hanse 1380 — A learning game for the German Maritime Museum. In: Lecture Notes in Computer Science (Conference Paper), (September 2009). pp. 1—6. 
 
+Lahnwong, Chayanit: The Framework Development for Interpretation Of Students Reading Literacy In Teaching And Learning Through Open Approach. In: Journal of Physics: Conference Series. Series 1340 (2019). pp. 1—8.
+
 Lauber, Erick: The Design of 3-D, Fast-Action Digital Games for the Classroom. In: Educational Technology, Vol. 45, No. 6 (November-December 2005). pp. 52—55.
+
+Milligan Ian: Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010. In: Canadian Historical Review, Vol. 94, No. 4 (2013). 540–569. Citation from: Putnam 2016. 
 
 Pérez-Colado, Víctor Manuel et al.: Simplifying the Creation of Adventure Serious Games with Educational-Oriented Features. In: Journal of Educational Technology & Society, Vol. 22, No. 3 (July 2019). pp. 32—46.
 
 Putnam, Lara: The Transnational and the Text-Searchable: Digitized
 Sources and the Shadows They Cast. In: The American Historical Review, Vol. 121, No. 2 (April 2016). pp. 377–402.
+
+Trouillot, Michel-Rolph: Silencing the Past. Boston 1995.
 
 
 	Henrik Jochum
