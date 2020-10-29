@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: DigiZeit Reflection Piece
+
+nav:
+    - Home: 'index.md'
+    - Reflection Piece: 'digizeit-reflection.md'
+    
+   
