@@ -106,22 +106,3 @@ Putnam, Lara: The Transnational and the Text-Searchable: Digitized
 Sources and the Shadows They Cast. In: *The American Historical Review*, Vol. 121, No. 2 (April 2016). pp. 377–402.
 
 Trouillot, Michel-Rolph: Silencing the Past. Boston 1995.
-
-
-	Henrik Jochum
-
-	Bachwiesstrasse 11
-
-	9402 Mörschwil
-
-	henrik.jochum@uzh.ch
-
-	079 126 92 17
-
-	Matrikelnummer: 15-731-367
-
-	Major: History of the Contemporary World / Zeitgeschichte
-
-	Minor: Wirtschaftsgeschichte und Ökonomie
-
-	Module: History in a Digitized World (Martin Dusinberre, Daniel McDonald)
