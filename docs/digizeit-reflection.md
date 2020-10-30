@@ -20,7 +20,7 @@ The goal of the game *Feeling the Past* is to illustrate the possible benefits o
 
 Presenting your work in progress to peers and receiving feedback are essential steps in an historian's work. Current technologies offer new ways of collaborative working. In the case of *Feeling the Past*, I greatly benefited from using GitLab to communicate with the other students of DigiZeit. This especially showed during the game's beta which was conducted during May, in which the other DigiZeit members were able to give feedback using the *Issues* function. In the later stages of development it was also really useful to have collaborators like Daniel McDonald push changes directly to the game repository, for example in case of coding mistakes, which I then could easily either accept or discard with a single click. 
 
-While in this project Git was used primarily for software development and communication aspects, the same functionalities can definitely be applied to conventional historical research. Git offers both a well structured discussion platform and file version control, in which the rights and duties of each member can be clearly defined—essentials for productive collaboration. Every change is tracked so at any point in time it is transparent who is the creator of which work. (Some secondary literature about collaborative working in History, maybe Lynn Hunt)
+While in this project Git was used primarily for software development and communication aspects, the same functionalities can definitely be applied to conventional historical research. Git offers both a well structured discussion platform and file version control, in which the rights and duties of each member can be clearly defined—essentials for productive collaboration. Every change is tracked so at any point in time it is transparent who is the author of which work. This could solve some of the issues Rachel Mann raises, like that it is often unclear who can be credited with doing which work when the only product of a collaboration in the humanities is a conventionally credited publication (Mann, 2019). By being able to trace back the contributions of each project member starting from day one, it is visible who made additions to the technical, interpretative, or administrative aspects of the project.
 
 #### Working with ***Lives in Transit***
 
@@ -99,6 +99,8 @@ Jenner, Walter / de Araújo, Leonardo Moura: Hanse 1380 — A learning game for 
 Lahnwong, Chayanit: The Framework Development for Interpretation Of Students Reading Literacy In Teaching And Learning Through Open Approach. In: *Journal of Physics: Conference Series*. Series 1340 (2019). pp. 1—8.
 
 Lauber, Erick: The Design of 3-D, Fast-Action Digital Games for the Classroom. In: *Educational Technology*, Vol. 45, No. 6 (November-December 2005). pp. 52—55.
+
+Mann, Rachel: Paid to Do but Not to Think: Reevaluating the Role of Graduate Student Collaborators. In: Gold, Matthew K. / Klein, Lauren F. (eds.): Debates in the Digital Humanities 2019. Minneapolis 2019. pp. 268—278.
 
 Milligan Ian: Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010. In: *Canadian Historical Review*, Vol. 94, No. 4 (2013). 540–569. Citation from: Putnam 2016. 
 
