@@ -1,2 +1,3 @@
 site_name: Feeling the Past Reflection
-theme: readthedocs
+theme: 
+	name: material
