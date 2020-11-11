@@ -3,7 +3,7 @@ theme:
   name: readthedocs
 nav:
   - Home: index.md
-  - Introduction:
+  - Introduction: introduction.md
     - Introduction: introduction.md
     - Source Selection of Historians: source-selection.md
   - Selected Challenges and Essential Insights:
