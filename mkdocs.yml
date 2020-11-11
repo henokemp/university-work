@@ -4,9 +4,9 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Introduction':
-  - 'Introduction': 'introduction.md'
-  - 'Source Selection of Historians': 'source-selection.md'
-    - 'Challenges and Insights': 
+    - 'Introduction': 'introduction.md'
+    - 'Source Selection of Historians': 'source-selection.md'
+  - 'Challenges and Insights': 
     - 'Collaboration': 'collaboration.md'
     - 'Lives in Transit': 'lives-in-transit.md'
     - 'Marugoto': 'marugoto.md'
