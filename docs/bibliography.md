@@ -22,7 +22,7 @@ Hunt, Lynn: Writing History in the Global Era. New York 2015.
 #### Jang, 2016
 Jang, Hyewon: Identifying 21st Century STEM Competencies Using Workplace Data. In: *Journal of Science Journal of Science*, Vol. 25, No. 2 (April 2016). pp. 284—301. 
 
-#### Jenner & de Araújo, 2009
+#### Jenner et al., 2009
 Jenner, Walter / de Araújo, Leonardo Moura: Hanse 1380 — A learning game for the German Maritime Museum. In: *Lecture Notes in Computer Science* (Conference Paper), (September 2009). pp. 1—6. 
 
 #### Lahnwong, 2019
