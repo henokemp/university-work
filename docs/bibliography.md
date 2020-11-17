@@ -1,6 +1,6 @@
 ## Bibliography
 
-##### Bossavit
+###### Bossavit
 
 Bossavit, Benoît et al.: Educational Games to Enhance Museum Visits for Schools. In: *Journal of Educational Technology & Society*, Vol. 21, No. 4 (October 2018). pp. 171—186.
 
@@ -10,7 +10,9 @@ Bossavit, Benoît et al.: Educational Games to Enhance Museum Visits for Schools
 
 ###### Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts)
 
-###### Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: *Science Education*, Vol. 88, (Supplement 1), (June 2004). pp. S59—S70.
+###### Griffin
+
+Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: *Science Education*, Vol. 88, (Supplement 1), (June 2004). pp. S59—S70.
 
 ###### Historisches Seminar, Universität Zürich: Historisches Seminar. PS Grundlagenpapiere. Frühlingssemester 2013.
 
