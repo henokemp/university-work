@@ -1,15 +1,15 @@
 ## Bibliography
 
-###### Bossavit
+###### Bossavit et al. 2018
 Bossavit, Benoît et al.: Educational Games to Enhance Museum Visits for Schools. In: *Journal of Educational Technology & Society*, Vol. 21, No. 4 (October 2018). pp. 171—186.
 
-###### Farge
+###### Farge 1989
 Farge, Arlette: The Allure of the Archives. New Haven & London 1989. 
 
-###### Findlen
+###### Findlen 2020
 Findlen, Paula: Objects of History: the Past Materialized. In: *History and Theory*, Vol. 59, No. 2 (June 2020). pp. 270—282.
 
-###### Flaherty
+###### Flaherty 2017
 Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts)
 
 ###### Griffin Janette
