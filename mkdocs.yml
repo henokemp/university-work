@@ -1,6 +1,11 @@
 site_name: Feeling the Past Reflection
+<<<<<<< HEAD
 theme:
   name: mkdocs-material
+=======
+theme: 
+  name: readthedocs
+>>>>>>> parent of a7a72a6... tried new theme
 nav:
   - Home: index.md
   - Introduction: introduction.md
