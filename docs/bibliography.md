@@ -15,7 +15,7 @@ Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (https://www.insi
 ###### Griffin, 2004
 Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: *Science Education*, Vol. 88, (Supplement 1), (June 2004). pp. S59—S70.
 
-###### Historisches Seminar
+###### Historisches Seminar, 2013
 Historisches Seminar, Universität Zürich: Historisches Seminar. PS Grundlagenpapiere. Frühlingssemester 2013.
 
 ###### Hunt, 2015
@@ -36,10 +36,13 @@ Lauber, Erick: The Design of 3-D, Fast-Action Digital Games for the Classroom. I
 ###### Mann, 2019
 Mann, Rachel: Paid to Do but Not to Think: Reevaluating the Role of Graduate Student Collaborators. In: Gold, Matthew K. / Klein, Lauren F. (eds.): Debates in the Digital Humanities 2019. Minneapolis 2019. pp. 268—278.
 
+###### Miller, 2017
+Miller, Peter N.: History and Its Objects. Ithaca & London 2017.
+
 ###### Milligan, 2013
 Milligan, Ian: Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010. In: *Canadian Historical Review*, Vol. 94, No. 4 (2013). 540–569. Citation from: Putnam 2016. 
 
-###### Pérez-Colado, 2019
+###### Pérez-Colado et al., 2019
 Pérez-Colado, Víctor Manuel et al.: Simplifying the Creation of Adventure Serious Games with Educational-Oriented Features. In: *Journal of Educational Technology & Society*, Vol. 22, No. 3 (July 2019). pp. 32—46.
 
 ###### Putnam, 2016
