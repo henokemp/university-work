@@ -1,3 +1,3 @@
 ## ***Feeling the Past***: How an Interactive Text-Based Educational Game Could Influence the Source Selection of Historians.
 
-This webpage reflects on my project *Feeling the Past* which I created for the master's course *History in a Digitized World*. The reflection piece starts with the introduction found on the left site or the next button below. *Feeling the Past* is a text-based interactive game, which can be played on www.livesintransit.org. 
+This webpage reflects on my project *Feeling the Past* which I created for the master's course *History in a Digitized World*. The reflection piece starts with the introduction found on the left site or the next button below. *Feeling the Past* is a text-based interactive game, which can be played on [Lives in Transit](www.livesintransit.org). 
