@@ -1,6 +1,8 @@
 ## Bibliography
 
-###### Bossavit, Benoît et al.: Educational Games to Enhance Museum Visits for Schools. In: *Journal of Educational Technology & Society*, Vol. 21, No. 4 (October 2018). pp. 171—186.
+##### Bossavit
+
+Bossavit, Benoît et al.: Educational Games to Enhance Museum Visits for Schools. In: *Journal of Educational Technology & Society*, Vol. 21, No. 4 (October 2018). pp. 171—186.
 
 ###### Farge, Arlette: The Allure of the Archives. New Haven & London 1989. 
 
