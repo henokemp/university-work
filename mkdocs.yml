@@ -1,6 +1,6 @@
 site_name: Feeling the Past Reflection
-theme: 
-  name: readthedocs
+theme:
+  name: material
 nav:
   - Home: index.md
   - Introduction: introduction.md
