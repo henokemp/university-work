@@ -1,5 +1,3 @@
-## Bibliography
-
 ###### Bossavit et al. 2018
 Bossavit, Benoît et al.: Educational Games to Enhance Museum Visits for Schools. In: *Journal of Educational Technology & Society*, Vol. 21, No. 4 (October 2018). pp. 171—186.
 

@@ -2,7 +2,7 @@
 
 This reflection piece discusses the project *Feeling the Past*, which I created during the spring semester of 2020. The project was part of the module *History in a Digitized World* (DigiZeit) by Martin Dusinberre and Daniel McDonald, tutored by Leyla Feiner. DigiZeit is an exclusive module for students of the master's degree *History of the Contemporary World / Zeitgeschichte* at the University of Zürich. 
 
-It is assumed that the reader has played *Feeling the Past* recently. This can be done on the *Lives in Transit* website here: https://livesintransit.org/login. In the paper—after a brief description of the thought process behind the project—selected challenges and essential insights are reflected upon and contextualized using contemporary literature to gain new insights for writing history in a digitized age.
+It is assumed that the reader has played *Feeling the Past* recently. This can be done on the *Lives in Transit* website here: [Lives in Transit](https://livesintransit.org/login). In the paper—after a brief description of the thought process behind the project—selected challenges and essential insights are reflected upon and contextualized using contemporary literature to gain new insights for writing history in a digitized age.
 
 ### Objects and the Source Selection of Historians
 
