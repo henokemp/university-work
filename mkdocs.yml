@@ -1,6 +1,7 @@
 site_name: Feeling the Past Reflection
 theme: 
   name: readthedocs
+  titles_only: true
 nav:
   - Home: index.md
   - Introduction: introduction.md
