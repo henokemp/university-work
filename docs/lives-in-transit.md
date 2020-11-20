@@ -1,4 +1,4 @@
-### Working with ***Lives in Transit***
+### Working with [***Lives in Transit***](https://livesintransit.org)
 
 Working with an existing project had both advantages and disadvantages. For one, creating something as laborious as a computer game—something I would not have been able to complete from scratch in roughly three months—was made possible by utilizing an existing framework. In my case, this did not cause any conflicts between what I wanted to do and what was possible, but it influenced how I designed my storyline. For example, the tasks are based on the exercises I encountered in the preexisting *Lives in Transit* demo and what I remembered of the playtest of *Plantation Lives* the previous year. If I wanted the player to virtually pick up an object in a 3D environment during an exercise and freely rotate it, this would not have been possible as *Marugoto* does not support 3D modules.
 
@@ -10,5 +10,5 @@ With more collaborative research in the humanities (and especially in digital hu
 Close collaboration and communication already are considered key components of 21st century competencies in STEM fields ([Jang, 2016](bibliography.md#jang-2016)). History appears to be moving in the same direction. As Lynn Hunt notes
 >history writing in the global era can only be a collaborative form of inquiry, whether between types of approaches or between scholars from different parts of the globe. We are not just interconnected but also interdependent ([Hunt, 2015](bibliography.md#hunt-2015), p. 151).
 
-Critical voices argue that from a career perspective co-authored collaborative work will be valued less than a independent project, therefore its popularity is connected to the nature of historical careers ([Flaherty, 2017](bibliography.md#flaherty-2017)). There is an ongoing discussion regarding collaborative work in historical research and especially with
- more digital research being done, it seems a repositioning and restructuring towards more collaborative work in History is inevitable.
+Critical voices argue that from a career perspective, co-authored collaborative work will be valued less than a independent project, therefore its popularity is connected to the nature of historical careers ([Flaherty, 2017](bibliography.md#flaherty-2017)). There is an ongoing discussion regarding collaborative work in historical research and especially with
+more digital research being done, it seems a repositioning and restructuring towards more collaborative work in History is inevitable.
