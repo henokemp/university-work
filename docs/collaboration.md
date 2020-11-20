@@ -1,4 +1,4 @@
-### Collaboration Using Git
+## Collaboration Using Git
 
 Presenting your work in progress to peers and receiving feedback are essential steps in a historian's work. Current technologies offer new ways of collaborative working. In the case of *Feeling the Past*, I used GitLab to communicate with the other students of DigiZeit. During the game's beta in May, the other DigiZeit members gave feedback using the *Issues* function. It was really convenient to have one central space for discussion, instead of each member giving feedback individually, as they were able to react to and complement each others comments. In the later stages of development it was also really useful to have collaborators like Daniel McDonald directly edit the game repository using Git, for example in case of coding mistakes, which I then could easily either accept or discard with a single click. 
 

@@ -1,4 +1,4 @@
-### Working with [***Lives in Transit***](https://livesintransit.org)
+## Working with [***Lives in Transit***](https://livesintransit.org)
 
 Working with an existing project had both advantages and disadvantages. For one, creating something as laborious as a computer game—something I would not have been able to complete from scratch in roughly three months—was made possible by utilizing an existing framework. In my case, this did not cause any conflicts between what I wanted to do and what was possible, but it influenced how I designed my storyline. For example, the tasks are based on the exercises I encountered in the preexisting *Lives in Transit* demo and what I remembered of the playtest of *Plantation Lives* the previous year. If I wanted the player to virtually pick up an object in a 3D environment during an exercise and freely rotate it, this would not have been possible as *Marugoto* does not support 3D modules.
 
