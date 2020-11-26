@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="data:text/css,h4%20%7B%20visibility%3A%20hidden%20%7D" />
-
 #### Bossavit et al. 2018
 Bossavit, Benoît, Alfredo Pina, Isabel Sanchez-Gil et al.: Educational Games to Enhance Museum Visits for Schools. In: *Journal of Educational Technology & Society*, Vol. 21, No. 4 (October 2018). 171—186.
 
