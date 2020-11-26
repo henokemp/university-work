@@ -3,7 +3,7 @@
 #### Bossavit et al. 2018
 Bossavit, Benoît, Alfredo Pina, Isabel Sanchez-Gil et al.: Educational Games to Enhance Museum Visits for Schools. In: *Journal of Educational Technology & Society*, Vol. 21, No. 4 (October 2018). 171—186.
 
-#### Farge, 1989
+<h4 id="farge-1989" style="visibility: hidden;">Farge, 1989</h4>
 Farge, Arlette: The Allure of the Archives. New Haven & London 1989. 
 
 #### Findlen, 2020
