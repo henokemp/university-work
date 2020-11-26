@@ -1,5 +1,5 @@
 <style>
-h4   {display: none;}
+h4   {display: hidden;}
 </style>
 
 #### Bossavit et al. 2018
