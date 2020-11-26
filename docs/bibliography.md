@@ -4,7 +4,7 @@
 
 <p id="findlen-2020">Findlen, Paula: Objects of History: the Past Materialized. In: <em>History and Theory</em>, Vol. 59, No. 2 (June 2020). 270—282.</p>
 
-<p id="flaherty-2017">Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (<a>https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts</a>)</p>
+<p id="flaherty-2017">Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (<a href="https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts">Link</a>)</p>
 
 <p id="griffin-2004">Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: <em>Science Education</em>, Vol. 88, (Supplement 1), (June 2004). S59—S70.</p>
 
