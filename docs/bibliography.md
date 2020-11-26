@@ -4,23 +4,17 @@
 
 <p id="findlen-2020">Findlen, Paula: Objects of History: the Past Materialized. In: *History and Theory*, Vol. 59, No. 2 (June 2020). 270—282.</p>
 
-#### Flaherty, 2017
-Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts)
+<p id="flaherty-2017">Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts)</p>
 
-#### Griffin, 2004
-Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: *Science Education*, Vol. 88, (Supplement 1), (June 2004). S59—S70.
+<p id="griffin-2004">Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: *Science Education*, Vol. 88, (Supplement 1), (June 2004). S59—S70.</p>
 
-#### Historisches Seminar, 2013
-Historisches Seminar, Universität Zürich: Historisches Seminar. PS Grundlagenpapiere. Frühlingssemester 2013.
+<p id="historisches-seminar-2013">Historisches Seminar, Universität Zürich: Historisches Seminar. PS Grundlagenpapiere. Frühlingssemester 2013.</p>
 
-#### Hunt, 2015
-Hunt, Lynn: Writing History in the Global Era. New York 2015.
+<p id="hunt-2015">Hunt, Lynn: Writing History in the Global Era. New York 2015.</p>
 
-#### Jang, 2016
-Jang, Hyewon: Identifying 21st Century STEM Competencies Using Workplace Data. In: *Journal of Science Journal of Science*, Vol. 25, No. 2 (April 2016). 284—301. 
+<p id="jang-2016">Jang, Hyewon: Identifying 21st Century STEM Competencies Using Workplace Data. In: *Journal of Science Journal of Science*, Vol. 25, No. 2 (April 2016). 284—301.</p>
 
-#### Jenner and de Araújo, 2009
-Jenner, Walter and Leonardo Moura de Araújo: Hanse 1380 — A learning game for the German Maritime Museum. In: *Lecture Notes in Computer Science* (Conference Paper), (September 2009). 1—6. 
+<p id="jenner-and-de-araujo-2009">Jenner, Walter and Leonardo Moura de Araújo: Hanse 1380 — A learning game for the German Maritime Museum. In: *Lecture Notes in Computer Science* (Conference Paper), (September 2009). 1—6.</p>
 
 #### Lahnwong, 2019
 Lahnwong, Chayanit: The Framework Development for Interpretation Of Students Reading Literacy In Teaching And Learning Through Open Approach. In: *Journal of Physics: Conference Series*. Series 1340 (2019). 1—8.
