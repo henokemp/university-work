@@ -6,7 +6,7 @@
 
 <p id="flaherty-2017">Flaherty, Colleen: Is Collaboration Worth It? January 6, 2017. (<a href="https://www.insidehighered.com/news/2017/01/06/historians-push-more-collaboration-field-traditionally-has-snubbed-group-efforts">Link</a>)</p>
 
-<p id="griffin-2004">Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: <em>Science Education</em>, Vol. 88, (Supplement 1), (June 2004). S59—S70.</p>
+<p id="griffin-2004">Griffin, Janette: Research on Students and Museums: Looking More Closely at the Students in School Groups. In: <em>Science Education</em>, Vol. 88 (Supplement 1), (June 2004). S59—S70.</p>
 
 <p id="historisches-seminar-2013">Historisches Seminar, Universität Zürich: Historisches Seminar. PS Grundlagenpapiere. Frühlingssemester 2013.</p>
 
@@ -14,7 +14,7 @@
 
 <p id="jang-2016">Jang, Hyewon: Identifying 21st Century STEM Competencies Using Workplace Data. In: <em>Journal of Science Journal of Science</em>, Vol. 25, No. 2 (April 2016). 284—301.</p>
 
-<p id="jenner-and-de-araujo-2009">Jenner, Walter and Leonardo Moura de Araújo: Hanse 1380 — A learning game for the German Maritime Museum. In: <em>Lecture Notes in Computer Science</em> (Conference Paper), (September 2009). 1—6.</p>
+<p id="jenner-and-de-araujo-2009">Jenner, Walter and Leonardo Moura de Araújo: Hanse 1380 — A learning game for the German Maritime Museum. In: <em>Lecture Notes in Computer Science</em>, Conference Paper, (September 2009). 1—6.</p>
 
 <p id="lahnwong-2019">Lahnwong, Chayanit: The Framework Development for Interpretation Of Students Reading Literacy In Teaching And Learning Through Open Approach. In: <em>Journal of Physics: Conference Series</em>. Series 1340 (2019). 1—8.</p>
 
@@ -30,4 +30,4 @@
 
 <p id="putnam-2016">Putnam, Lara: The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast. In: <em>The American Historical Review</em>, Vol. 121, No. 2 (April 2016). 377–402.</p>
 
-<p id="trouillot">Trouillot, Michel-Rolph: Silencing the Past. Boston 1995.</p>
+<p id="trouillot-1995">Trouillot, Michel-Rolph: Silencing the Past. Boston 1995.</p>
