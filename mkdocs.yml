@@ -16,4 +16,4 @@ nav:
   - Bibliography: bibliography.md
 markdown_extensions:
   - toc:
-      toc_depth: 4
+      toc_depth: 0
